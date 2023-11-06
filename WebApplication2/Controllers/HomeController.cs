@@ -26,5 +26,23 @@ namespace WebApplication2.Controllers
 
             return View();
         }
+        public ActionResult Cart()
+        {
+            ViewBag.Message = "Your cart page.";
+
+            return View();
+        }
+        public ActionResult Sign_in()
+        {
+            ViewBag.Message = "Your sign in page.";
+
+            return View();
+        }
+        public ActionResult Product_Detail()
+        {
+            ViewBag.Message = "Your cart page.";
+
+            return View();
+        }
     }
 }

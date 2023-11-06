@@ -334,14 +334,14 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Master_Layout.cshtml" />
+    <Content Include="Views\Home\Cart.cshtml" />
+    <Content Include="Views\Home\Sign_in.cshtml" />
+    <Content Include="Views\Home\Product_Detail.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="obj\Debug\TempPE\" />
-    <Folder Include="Views\Cart\" />
-    <Folder Include="Views\Login\" />
-    <Folder Include="Views\Product_Detail\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
